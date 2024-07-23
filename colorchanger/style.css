@@ -1,0 +1,27 @@
+.button {
+  padding: 20px;
+  border: 2px solid;
+  font-weight: bold;
+  border-radius: 10px;
+  cursor: pointer;
+  color: white;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.purple {
+  background-color: purple;
+}
+
+.blue {
+  background-color: blue;
+}
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
