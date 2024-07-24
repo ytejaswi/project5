@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.card {
+  background-color: bisque;
+  height: 100vh;
+  padding: 15px;
+}
+
+.header {
+  text-align: center;
+}
+
+.button {
+  background-color: rgb(29, 193, 29);
+  padding: 5px;
+  border-radius: 10px;
+  font-size: 15px;
+  margin: 15px;
+}
